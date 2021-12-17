@@ -1,0 +1,15 @@
+.btn-roxy {
+  color: white;
+  background-color: hotpink;
+  outline: none !important;
+  box-shadow: none !important;
+}
+.input-data {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.spam {
+  color: red;
+  font-size: 25px;
+}

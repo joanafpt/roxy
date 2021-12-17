@@ -1,0 +1,45 @@
+.sidemenu {
+  background-color: transparent;
+  border: 2px solid transparent;
+  color: white;
+  margin-left: 2px;
+  margin-right: 2px;
+}
+
+.sidemenu:hover {
+  background-color: transparent;
+  border: 2px solid transparent;
+  color: black;
+  margin-left: 2px;
+  margin-right: 2px;
+  /* box-shadow: none; */
+  /* outline: 0; */
+
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.sidemenu:focus {
+  background-color: transparent;
+  border: 2px solid transparent;
+  color: black;
+  margin-left: 2px;
+  margin-right: 2px;
+  /* box-shadow: none; */
+  /* outline: 0; */
+
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+.roxy-label {
+  background-color: transparent;
+  border: 2px solid transparent;
+  color: white;
+  margin-left: 0px;
+  margin-right: 2px;
+  cursor: none;
+}
+
+.roxy-label:hover {
+}

@@ -1,0 +1,6 @@
+export const SHOWBIO = "SHOWBIO";
+export const SHOWFACTS = "SHOWFACTS";
+export const SHOWIMAGES = "SHOWIMAGES";
+export const SENDMESSAGE = "SENDMESSAGE";
+export const GETCOMMENTS = "GETCOMMENTS";
+export const MESSAGE_PAGE_LOADED = "MESSAGE_PAGE_LOADED";
